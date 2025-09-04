@@ -9,8 +9,8 @@ public class Welcom {
 		System.out.println("pulling the code to git");
 		System.out.println("pulling the code to origin");
 		System.out.println("pulling the code to branch1 ");
-		System.out.println("pulling the code to branch1 ");
-		System.out.println("pulling the code to branch1 ");
+		System.out.println("pulling the code to branch1from main");
+		
 
 
 		
